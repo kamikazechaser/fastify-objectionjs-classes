@@ -1,5 +1,7 @@
 # fastify-objectionjs-classes
 
+![Node.js CI](https://github.com/kamikazechaser/fastify-objectionjs-classes/workflows/Node.js%20CI/badge.svg)
+
 Cherry-pick Objection.js classes for Fastify, complements [fastify-objectionjs](https://github.com/jarcodallo/fastify-objectionjs).
 
 > Decorator namespace is `objectionjs`
