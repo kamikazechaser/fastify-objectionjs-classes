@@ -19,7 +19,12 @@ function fastifyObjectionJsClasses(fastify, options, next) {
     return;
   }
 
-  fastify.decorate('objectionjs', injectableClasses);
+  if (!fastify.objectionjs) {
+    fastify.decorate('objectionjs', injectableClasses);
+  } else {
+    next(new Error('fastify-objectionjs-classes has already registered.'));
+    return;
+  }
 
   next();
 }
