@@ -1,6 +1,6 @@
 {
   "name": "fastify-objectionjs-classes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Objection.js plugin for Fastify with classes cherry-picking support",
   "main": "plugin.js",
   "dependencies": {
