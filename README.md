@@ -1,8 +1,9 @@
 # fastify-objectionjs-classes
 
 ![Node.js CI](https://github.com/kamikazechaser/fastify-objectionjs-classes/workflows/Node.js%20CI/badge.svg)
+![npm](https://img.shields.io/npm/dt/fastify-objectionjs-classes)
 
-Cherry-pick Objection.js classes for Fastify, complements [fastify-objectionjs](https://github.com/jarcodallo/fastify-objectionjs).
+Cherry-pick Objection.js classes for Fastify, complements [fastify-objectionjs](https://github.com/jarcodallo/fastify-objectionjs). This allows you to use any specific or all, Objection.js classes globally through the `objectionjs` decorated namespace.
 
 > Decorator namespace is `objectionjs`
 
