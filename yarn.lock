@@ -1624,9 +1624,9 @@ object-assign@^4.1.1:
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
 
 objection@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/objection/-/objection-2.2.4.tgz#47e6a41f7a1b6bb750a66b638885a07e8f414b6e"
-  integrity sha512-yY/Pf6gLWVnTrkhYMZ4qjuk4ztJ8NHizfC1S/cp89oSevd9hDS2GqCYKQMHJRnY+Wu+qFtqMMFgWV3qRQrX0iA==
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/objection/-/objection-2.2.7.tgz#0e3773d8dfeca4b22fa0d0d5019c599e8b078972"
+  integrity sha512-B/joqs+HFi/v3LzQxuO9JBca+0JkOXt/qfLs9kNCNbOX6pbvsAflaNxB2p7tpe9JI6gUm81qJ8Khje/70CcXfw==
   dependencies:
     ajv "^6.12.6"
     db-errors "^0.2.3"
